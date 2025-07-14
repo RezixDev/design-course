@@ -1,4 +1,8 @@
-# design-course
+# Design Course
+
+Links:
+
+https://anthonyhobday.com/sideprojects/saferules/
 
 # Sketch, Notes
 
